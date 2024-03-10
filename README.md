@@ -1,6 +1,6 @@
 # 69EVCoin, The Token For Marketplace & EVCar Charger Station
 
-<div align="center"><img src="https://condo2024.io/wp-content/uploads/2024/01/cropped-favicon.fw_.png" /><br /></div>
+<div align="center"><img src="https://condo2024.io/wp-content/uploads/2024/03/logo250x250.fw_.fw_.png" /><br /></div>
 <div align="center">
   <h1>
 </div>
