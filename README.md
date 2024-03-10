@@ -4,25 +4,20 @@
 <div align="center">
   <h1>
 </div>
-Use 69EV token for shopping EV marketplace and payment gateway for chaarger car station on the aisan country
-69EVCoin, Rrevolutionary of clean energy system. use token for EV car charging station in ASEAN countries. token as payment gateway for EV car charging control through the application, use EV69 token for shop all product on marketplace platform.
+Own luxury condo worldwide through CondoCoin payments. Just buy Token and Hold in your wallet. 
 
 # Marketplace
-We serve a marketplace platform that combines EV car charger product directly from the manufacturer ready to install. Members can buy on the platform accept payments through 69EVCoin
+Condo Marketplace is an property platform. We use Condo Coin token as a payment medium. The platform has compiled each category of property products to facilitate product search. Convenient and secure payment The system will connect to the Wallet and press payment automatically. just a few steps And every transaction made through Condo Coin will receive a 10% discount on all transactions. Easy to use procedure Press to pay for products, connect to wallet, press to confirm payment, check transactions via blockchain, convenient and safe.
 
 # Payment Gateway
-69EVCoin payment gateway. We built tokens on binance smart chain as a highly secure blockchain payment gateway. It offers low fees and supports leading exchanges. can also be used to pay for goods discount all transactions. marketing section is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
+CondoCoin payment gateway We built coin on binance smart chain as a highly secure blockchain payment gateway. It offers low fees and supports leading exchanges. token can also be used to pay for property on our platform. marketing section is expanding as a payment gateway on coinpayment.net our growing partnerships in the future.
 
 # Link us
 
-🌐 Smart Contract : https://bscscan.com/address/0xFD843444a25Fa5d40dCE9e1CF6f803EACc47030B
+🌐 Smart Contract : https://bscscan.com/token/0x7e89c8f874ca0abd4562395db2d96385282d4638
 
-📊 Buy token : https://pancakeswap.finance/swap?outputCurrency=0xFD843444a25Fa5d40dCE9e1CF6f803EACc47030B
+📊 Buy token : https://pancakeswap.finance/swap?outputCurrency=0x7e89c8f874ca0abd4562395db2d96385282d4638
 
-🟩 Twitter : https://twitter.com/69EVcoin
+🟩 Twitter : https://twitter.com/
 
-🚮 Facebook : https://www.facebook.com/69greenenergy
-
-🟢 Telegram : https://t.me/Ev69crypto
-
-🧑‍🤝‍🧑 Tiktok : https://www.tiktok.com/@evstation8?_t=8k7HoyEUq7G&_r=1
+🟢 Telegram : https://t.me/condo2024
