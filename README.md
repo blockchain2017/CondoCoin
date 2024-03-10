@@ -1,4 +1,4 @@
-# 69EVCoin, The Token For Marketplace & EVCar Charger Station
+# Token For Buy & Rent Luxury Hotel, Condo Worldwide
 
 <div align="center"><img src="https://condo2024.io/wp-content/uploads/2024/03/logo250x250.fw_.fw_.png" /><br /></div>
 <div align="center">
